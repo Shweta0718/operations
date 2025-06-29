@@ -39,11 +39,6 @@ def main():
 if __name__=="__main__":
     main()
 
-#output:-
-#Enter the menu which you want to remove from the list : mango
-#mango is not in list
-#final list ['Apple', 'Mango']
-
 
 
 
