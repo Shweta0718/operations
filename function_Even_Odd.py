@@ -1,8 +1,8 @@
 def check_num(num):
     if num%2==0:
-        print("The given number is even ")
+        print("The given number is even: ")
     else:
-        print("The given number is odd ")
+        print("The given number is odd: ")
     return num
 
 
